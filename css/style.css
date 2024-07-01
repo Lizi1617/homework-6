@@ -1,0 +1,253 @@
+.container {
+    width: calc(100% - 1440px);
+    /* margin: auto; */
+}
+
+.flex_container {
+    width: 100%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20%;
+}
+
+.header {
+    width: 1440px;
+    background-color: #758BFD;
+    display: flex;
+    margin: auto;
+
+}
+
+.logo {
+    width: 46px;
+    height: 46px;
+    margin: 53px 94px;
+}
+
+.navbar {
+    margin-left: 287px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navbar_li {
+    display: inline-block;
+}
+
+.navbar_middle_li {
+    margin-inline: 50px;
+}
+
+.active {
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 27.58px;
+    text-align: left;
+    color: #133B3A;
+}
+
+.inactive {
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 27.58px;
+    text-align: left;
+    color: #DDEAF8;
+}
+
+.box {
+    /* ar vici boxi rogor gavaketo :( */
+}
+
+.section {
+    width: 1244px;
+    display: flex;
+    margin: 90px;
+}
+
+h2 {
+    font-family: Ubuntu;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36.77px;
+    color: #27187F;
+}
+
+.article1 {
+    width: 400px;
+    height: 333px;
+    margin: auto 94px;
+    background-color: #DDEAF8;
+    padding: 33px 30px 89px;
+    display: flex;
+    justify-content: space-around;
+    gap: 51px 22px;
+    display: inline-block;
+}
+
+.photo1 {
+    width: 340px;
+    height: 211px;
+}
+
+h3 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    color: #133B3A;
+}
+
+.article2 {
+    width: 400px;
+    height: 333px;
+    margin: 18px auto;
+    background-color: #DDEAF8;
+    padding: 33px 30px 89px;
+    display: flex;
+    justify-content: space-around;
+    gap: 51px 22px;
+    display: inline-block;
+}
+
+.photo2 {
+    width: 340px;
+    height: 211px;
+}
+
+h4 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+    color: #133B3A;
+}
+
+.article3 {
+    width: 400px;
+    height: 333px;
+    margin: 18px 47px;
+    background-color: #DDEAF8;
+    padding: 33px 30px 89px;
+    display: flex;
+    justify-content: space-around;
+    display: inline-block;
+}
+
+.photo3 {
+    width: 340px;
+    height: 211px;
+}
+
+h5 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+    color: #133B3A;
+}
+
+.article4 {
+    width: 400px;
+    height: 333px;
+    margin: 51px 94px;
+    background-color: #DDEAF8;
+    padding: 33px 30px 89px;
+    display: flex;
+    justify-content: space-around;
+    gap: 51px 22px;
+    display: inline-block;
+}
+
+.photo4 {
+    width: 340px;
+    height: 211px;
+}
+
+h6 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+    color: #133B3A;
+}
+
+.article5 {
+    width: 400px;
+    height: 333px;
+    margin: auto 22px;
+    background-color: #DDEAF8;
+    padding: 33px 30px 89px;
+    display: flex;
+    justify-content: space-around;
+    gap: 51px 22px;
+    display: inline-block;
+}
+
+.photo5 {
+    width: 340px;
+    height: 211px;
+}
+
+.h7 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+    color: #133B3A;
+}
+
+.article6 {
+    width: 400px;
+    height: 333px;
+    margin: auto 22px;
+    background-color: #DDEAF8;
+    padding: 33px 30px 89px;
+    display: flex;
+    justify-content: space-around;
+    gap: 51px 22px;
+    display: inline-block;
+}
+
+.photo6 {
+    width: 340px;
+    height: 211px;
+}
+
+.h8 {
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-align: left;
+    color: #133B3A;
+}
+
+/* footer */
+footer {
+    width: 1440px;
+    height: 239px;
+    background-color: #758BFD;
+    display: flex;
+    margin: auto;
+    background-color: #758BFD;
+}
+
+.h2 {
+    font-family: Century Gothic;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 71px 94px;i
+}
